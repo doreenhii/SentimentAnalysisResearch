@@ -1,0 +1,399 @@
+ACCOUNT#8
+
+H4Lvd Ovrst FREQ Negate SureLw LY 3% adv: "On no account"--under no circumstances
+
+AFRAID#2
+
+H4Lvd Negativ Ngtv Weak Negate NotLw LY 1% idiom: "Afraid not"
+
+AIN'T
+
+H4Lvd Negate SV SUPV VERB BE NEG
+
+AVERSION
+
+H4 Negativ Hostile Passive Arousal Negate Noun
+
+CAN'T
+
+H4Lvd Weak Negate SV NotLw SUPV VERB MOD NEG verb: Contraction of "cannot"
+
+CANNOT
+
+H4Lvd Weak Negate SV NotLw SUPV VERB MOD NEG verb: A form of can not.
+
+CEASELESS
+
+H4Lvd Positiv FREQ Negate IndAdj Modif
+
+CONTRADICTORY
+
+H4Lvd Negativ Ngtv Ovrst ComForm COM Negate FormLw Noun
+
+CONTRARY
+
+H4Lvd Negativ Ngtv Negate Modif
+
+COUNTERACT
+
+H4Lvd Negativ Ngtv Strong Active Decreas Negate IAV PowCon PowTot SUPV
+
+COUNTERACTION
+
+H4Lvd Negativ Ngtv Strong Active Decreas Negate PowCon PowTot Noun
+
+DISADVANTAGE
+
+H4Lvd Negativ Ngtv Weak Vice Negate EndsLw Noun
+
+DISADVANTAGEOUS
+
+H4Lvd Negativ Ngtv Weak Vice EVAL Negate EndsLw Modif
+
+DISAGREEABLE
+
+H4Lvd Negativ Ngtv Hostile Pain Negate PowCon PowTot Modif
+
+DISAGREEMENT
+
+H4Lvd Negativ Ngtv Hostile ComForm COM Negate PowCon PowTot FormLw Noun
+
+DISAPPROVE
+
+H4Lvd Negativ Ngtv Hostile ComForm Negate IAV RspLoss RspTot SUPV
+
+DISAVOW
+
+H4Lvd Negativ Ngtv Hostile ComForm Negate IAV NegAff SUPV
+
+DISAVOWAL
+
+H4Lvd Negativ Ngtv Hostile ComForm COM Negate NegAff FormLw Noun
+
+DISBELIEF
+
+H4Lvd Negativ Ngtv Hostile Undrst Doctrin Negate Noun
+
+DISCOMFORT
+
+H4Lvd Negativ Ngtv Pain Negate WlbPhys WlbTot Noun
+
+DISCONTENT
+
+H4Lvd Negativ Ngtv Weak Passive Pain Negate WlbPsyc WlbTot Modif
+
+DISCONTINUE#1
+
+H4Lvd Finish Negate TrnLoss Modif
+
+DISCONTINUE#2
+
+H4Lvd Finish Negate IAV TrnLoss SUPV
+
+DISCOUNT#2
+
+H4Lvd Passive Decreas Negate IAV SUPV
+
+DISCOURAGE#1
+
+H4Lvd Negativ Ngtv Passive Pain EMOT Negate Anomie Modif
+
+DISCOURAGE#2
+
+H4Lvd Negativ Ngtv Hostile Active Pain Negate IAV Anomie SUPV
+
+DISLIKE#1
+
+H4Lvd Negativ Ngtv Hostile Passive Arousal Negate DAV NegAff SUPV 71% verb: To have an aversion toward
+
+DISLIKE#2
+
+H4Lvd Negativ Ngtv Hostile Passive Arousal EMOT Negate NegAff Modif 29% noun: An aversion
+
+DISORDER
+
+H4Lvd Negativ Ngtv Weak Vice Negate PowCon PowTot Noun
+
+DISORGANIZED
+
+H4Lvd Negativ Ngtv Weak Passive Vice Negate IndAdj Modif
+
+DISPLEASURE
+
+H4Lvd Negativ Ngtv Hostile Weak Passive Pain EMOT Negate NegAff Noun
+
+DISPROVE
+
+H4Lvd Negativ Ngtv Active Solve Negate IAV EnlOth EnlTot SUPV
+
+DISPUTE#1
+
+H4Lvd Negativ Ngtv Hostile Active POLIT ComForm COM Negate PowCon PowTot FormLw Noun
+
+DISPUTE#2
+
+H4Lvd Negativ Ngtv Hostile Active POLIT ComForm COM Negate IAV PowCon PowTot SUPV
+
+DISSIMILAR
+
+H4Lvd Rel Negate Modif
+
+DON'T
+
+H4Lvd Negate SV SUPV DO VERB NEG LY
+
+IMPATIENCE
+
+H4Lvd Negativ Ngtv Hostile Passive Arousal Negate WlbPsyc WlbTot Noun
+
+IMPLAUSIBILITY
+
+H4Lvd Causal Negate Noun
+
+IMPLAUSIBLE
+
+H4Lvd Causal Negate Modif
+
+IMPOSSIBILITY
+
+H4Lvd Undrst Causal Negate EndsLw Noun
+
+IMPOSSIBLE#1
+
+H4Lvd Undrst Causal Negate SklOth SklTOT Modif PFREQ 94% adjective: Not able to be done, happen, etc.
+
+IMPOSSIBLE#2
+
+H4Lvd Submit Causal Negate EndsLw Noun 6% noun: That which cannot be done
+
+IMPROBABILITY
+
+H4Lvd Undrst Causal Negate Noun
+
+IMPROBABLE
+
+H4Lvd Undrst Causal Negate Modif
+
+INABILITY
+
+H4Lvd Negativ Ngtv Weak Passive Vice Negate MeansLw Noun
+
+INACCESSIBLE
+
+H4 Negativ Vice Eval@ Negate IPadj Modif
+
+INADEQUATE
+
+H4Lvd Negativ Ngtv Weak Submit Passive Vice EVAL Negate IndAdj MeansLw Modif
+
+INCALCULABLE
+
+H4Lvd Undrst Quan Negate Modif
+
+INCAPABLE
+
+H4Lvd Negativ Ngtv Weak Submit Passive Vice EVAL Negate MeansLw Modif
+
+INCOMPATIBILITY
+
+H4Lvd Negativ Ngtv Vice Negate PowCon PowTot Noun
+
+INCOMPATIBLE
+
+H4Lvd Negativ Ngtv Vice Negate PowCon PowTot Modif
+
+INCOMPLETE
+
+H4Lvd Weak Quan Negate Modif
+
+INCONCEIVABLE
+
+H4Lvd Ovrst Know Negate SureLw Modif
+
+INCONTESTABILITY
+
+H4Lvd Ovrst Know Negate Noun
+
+INCONTESTABLE
+
+H4Lvd Ovrst Know Negate SureLw Modif
+
+INCORRECT
+
+H4Lvd Negativ Ngtv Weak Vice Undrst Negate SklOth SklTOT Modif
+
+INCREDIBILITY
+
+H4Lvd Ovrst Know Negate Modif
+
+INCREDIBLE
+
+H4Lvd Negativ Ngtv Ovrst Know EVAL Negate Modif
+
+INDECISION
+
+H4Lvd Weak Passive Vice Undrst Negate If Noun
+
+INDECISIVE
+
+H4Lvd Weak Passive Vice Undrst Negate If Modif
+
+INDECISIVENESS
+
+H4Lvd Weak Passive Vice Undrst Negate If Noun
+
+INDEFINITE
+
+H4Lvd Negativ Ngtv Passive Vice Undrst Negate If Modif
+
+INDESCRIBABLE
+
+H4 Positiv ComForm Eval@ Quality Negate IndAdj Modif
+
+INDIFFERENT
+
+H4 Negativ EMOT Negate IndAdj Modif
+
+INDIRECT
+
+H4Lvd Weak Undrst Means Negate Modif
+
+INDISPUTABLE
+
+H4Lvd Strong Virtue Ovrst Negate SureLw Modif
+
+INDISTINCT
+
+H4Lvd Undrst Perceiv Negate Modif
+
+INDISTINGUISHABLE
+
+H4Lvd Undrst Perceiv Negate Modif
+
+INEXACT
+
+H4 Negativ Ngtv Vice Undrst Negate Modif
+
+INEXPENSIVE
+
+H4 Positiv Econ@ Negate IndAdj Modif
+
+INEXPLICABLE
+
+H4Lvd Negativ Ngtv Causal Negate Modif
+
+INFALLIBLE
+
+H4Lvd Positiv Pstv Strong Virtue Ovrst Negate SureLw Modif
+
+INFORMAL
+
+H4Lvd Affil Know Negate RspOth RspTot Modif
+
+INFREQUENT
+
+H4Lvd Undrst FREQ Negate TimeSpc Modif
+
+INNUMERABLE
+
+H4Lvd Strong Ovrst Quan Negate Modif
+
+INSECURE
+
+H4Lvd Negativ Ngtv Weak Passive Vice Undrst Negate EndsLw Modif
+
+INSECURITY
+
+H4Lvd Negativ Ngtv Weak Passive Vice Undrst Negate EndsLw Noun
+
+INSEPARABLE
+
+H4Lvd Positiv Affil SocRel Negate IPadj Modif
+
+INSIGNIFICANT
+
+H4Lvd Negativ Ngtv Weak Vice Undrst EVAL Negate Modif
+
+INSTABILITY
+
+H4Lvd Negativ Ngtv Weak Passive Vice Negate If Noun
+
+INSTABLE
+
+H4Lvd Negativ Ngtv Weak Passive Vice Negate If Modif
+
+INSUFFICIENT
+
+H4Lvd Negativ Ngtv Weak Vice EVAL Negate EndsLw Modif
+
+INTANGIBLE
+
+H4Lvd Quality Negate Modif
+
+INVARIABLE
+
+H4Lvd Strong Ovrst Persist Negate Modif
+
+INVARIABLY
+
+H4Lvd Strong Ovrst Persist Negate SureLw LY
+
+INVINCIBLE
+
+H4Lvd Positiv Strong Power Virtue Negate IndAdj PowOth PowTot Modif
+
+INVISIBLE
+
+H4 Negativ Perceiv Negate IndAdj Modif
+
+INVOLUNTARY
+
+H4 Negativ Feel Negate IndAdj Modif
+
+INVULNERABLE
+
+H4 Positiv Strong Power Virtue Negate IndAdj Modif
+
+IRREFUTABLE
+
+H4Lvd Strong Ovrst Know Negate SureLw Modif
+
+IRREGULAR
+
+H4Lvd Negativ Ngtv Vary Negate Modif
+
+IRREGULARITY
+
+H4Lvd Negativ Ngtv Quality Negate Noun
+
+IRRESISTIBLE
+
+H4 Positiv Need Eval@ Negate IPadj Modif
+
+IRRESPONSIBLE
+
+H4Lvd Negativ Ngtv Weak Vice EVAL Negate RcEthic RcTot Modif
+
+LEAST#3
+
+H4Lvd Ovrst Negate SureLw LY 4% idiom-adv: '(not) in the least,' (not) at all
+
+LULL
+
+H4 Negativ Work Stay Negate Noun
+
+MATCHLESS
+
+H4 Positiv Ovrst Negate IndAdj Modif
+
+MEAN#5
+
+H4Lvd Ovrst No Negate NotLw LY 1% idiom-adv: "By no means"--not at all
+
+NEGATE
+
+H4Lvd Negativ Ngtv Hostile SocRel Negate IAV NotLw SUPV
+
+NEGATION
+
+H4Lvd Negativ Ngtv Vice Negate NotLw Noun
