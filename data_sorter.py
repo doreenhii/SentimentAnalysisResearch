@@ -1,6 +1,6 @@
-data_files = ["SA_imdb_labelled.txt", "SA_yelp_labelled.txt", "SA_amazon_labelled.txt"]
-correct_files = ["correct_"+data_files[0],"correct_"+data_files[1],"correct_"+data_files[2]]
-wrong_files = ["wrong_"+data_files[0],"wrong_"+data_files[1],"wrong_"+data_files[2]]
+data_files = ["ProcessedData/SA_imdb_labelled.txt", "ProcessedData/SA_yelp_labelled.txt", "ProcessedData/SA_amazon_labelled.txt"]
+correct_files = ["ProcessedData/correct_SA_imdb_labelled.txt","ProcessedData/correct_SA_yelp_labelled.txt","ProcessedData/correct_SA_amazon_labelled.txt"]
+wrong_files = ["ProcessedData/wrong_SA_imdb_labelled.txt","ProcessedData/wrong_SA_yelp_labelled.txt","ProcessedData/wrong_SA_amazon_labelled.txt"]
 
 def getLines(file_name):
 	with open(file_name) as f:
@@ -8,9 +8,9 @@ def getLines(file_name):
 
 	return data
 
-data = getLines(data_files[0])
-correct_data = open(correct_files[0],"wb")
-wrong_data = open(wrong_files[0],"wb")
+data = getLines(data_files[2])
+correct_data = open(correct_files[2],"wb")
+wrong_data = open(wrong_files[2],"wb")
 
 split_correct_data = []
 split_wrong_data = []

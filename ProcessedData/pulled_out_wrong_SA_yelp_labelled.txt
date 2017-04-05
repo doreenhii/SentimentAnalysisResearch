@@ -1,0 +1,23 @@
+The only redeeming quality of the restaurant was that it was very inexpensive.	1.0	-0.8	0.8	1.8
+The wontons were thin, not thick and chewy, almost melt in your mouth.	1.0	-0.7	0.7	1.7
+I've had better, not only from dedicated boba tea spots, but even from Jenni Pho.	-1.0	0.5	0.5	1.5
+They brought a fresh batch of fries and I was thinking yay something warm but no!	-1.0	0.5	0.5	1.5
+I'm not really sure how Joey's was voted best hot dog in the Valley by readers of Phoenix Magazine.	-1.0	0.4	0.4	1.4
+It was just not a fun experience.	1.0	-0.4	0.4	1.4
+When I opened the sandwich, I was impressed, but not in a good way.	-1.0	0.4	0.4	1.4
+OMG I felt like I had never eaten Thai food until this dish.	1.0	-0.2	0.2	1.2
+We made the drive all the way from North Scottsdale... and I was not one bit disappointed!	1.0	-0.2	0.2	1.2
+I think this restaurant suffers from not trying hard enough.	-1.0	0.1	0.1	1.1
+The chains, which I'm no fan of, beat this place easily.	-1.0	0.1	0.1	1.1
+- They never brought a salad we asked for.	-1.0	0	0	1.0
+There is not a deal good enough that would drag me into that establishment again.	-1.0	0	0	1.0
+At least think to refill my water before I struggle to wave you over for 10 minutes.	-1.0	0	0	1.0
+Great Subway, in fact it's so good when you come here every other Subway will not meet your expectations.	1.0	0	0	1.0
+Not a weekly haunt, but definitely a place to come back to every once in a while.	1.0	0	0	1.0
+If she had not rolled the eyes we may have stayed... Not sure if we will go back and try it again.	-1.0	0	0.3	1.0
+To summarize... the food was incredible, nay, transcendent... but nothing brings me joy quite like the memory of the pneumatic condiment dispenser.	1.0	0	0	1.0
+After waiting an hour and being seated, I was not in the greatest of moods.	-1.0	0	0	1.0
+No one at the table thought the food was above average or worth the wait that we had for it.	-1.0	0	0	1.0
+It's NOT hard to make a decent hamburger.	-1.0	0	0	1.0
+This really is how Vegas fine dining used to be, right down to the menus handed to the ladies that have no prices listed.	1.0	0.1	0.1	0.9
+If you're not familiar, check it out.	1.0	0.1	0.1	0.9

@@ -16,8 +16,8 @@ def getSentiment(l_client, text):
 	return sentiment_value
 
 #Data Files
-data_files = ["imdb_labelled.txt", "yelp_labelled.txt", "amazon_labelled.txt"]
-parsed_files = ["SA_"+data_files[0],"SA_"+data_files[1],"SA_"+data_files[2]]
+data_files = ["RawData/imdb_labelled.txt", "RawData/yelp_labelled.txt", "RawData/amazon_labelled.txt"]
+parsed_files = ["ProcessedData/SA_imdb_labelled.txt","ProcessedData/SA_yelp_labelled.txt","ProcessedData/SA_amazon_labelled.txt"]
 
 for i in [1,2]:
 

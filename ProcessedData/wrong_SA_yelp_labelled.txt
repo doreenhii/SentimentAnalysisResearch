@@ -1,0 +1,117 @@
+The only redeeming quality of the restaurant was that it was very inexpensive.	1.0	-0.8	0.8	1.8
+The only downside is the service.	-1.0	0.8	0.8	1.8
+I work in the hospitality industry in Paradise Valley and have refrained from recommending Cibo any longer.	-1.0	0.7	0.7	1.7
+The wontons were thin, not thick and chewy, almost melt in your mouth.	1.0	-0.7	0.7	1.7
+I've lived here since 1979 and this was the first (and last) time I've stepped foot into this place.	-1.0	0.6	0.6	1.6
+The portion was huge!	1.0	-0.5	0.5	1.5
+I've had better, not only from dedicated boba tea spots, but even from Jenni Pho.	-1.0	0.5	0.5	1.5
+They brought a fresh batch of fries and I was thinking yay something warm but no!	-1.0	0.5	0.5	1.5
+Insults, profound deuchebaggery, and had to go outside for a smoke break while serving just to solidify it.	-1.0	0.5	0.5	1.5
+It really is impressive that the place hasn't closed down.	-1.0	0.5	0.5	1.5
+I'm not really sure how Joey's was voted best hot dog in the Valley by readers of Phoenix Magazine.	-1.0	0.4	0.4	1.4
+The one down note is the ventilation could use some upgrading.	-1.0	0.4	0.4	1.4
+It was just not a fun experience.	1.0	-0.4	0.4	1.4
+When I opened the sandwich, I was impressed, but not in a good way.	-1.0	0.4	0.4	1.4
+The service here is fair at best.	-1.0	0.4	0.4	1.4
+The feel of the dining room was more college cooking course than high class dining and the service was slow at best.	-1.0	0.4	0.4	1.4
+Pricing is a bit of a concern at Mellow Mushroom.	-1.0	0.4	0.4	1.4
+There is so much good food in Vegas that I feel cheated for wasting an eating opportunity by going to Rice and Company.	-1.0	0.3	0.3	1.3
+The guys all had steaks, and our steak loving son who has had steak at the best and worst places said it was the best steak he's ever eaten.	1.0	-0.3	0.3	1.3
+This place deserves one star and 90% has to do with the food.	-1.0	0.3	0.3	1.3
+The chicken dishes are OK, the beef is like shoe leather.	-1.0	0.3	0.3	1.3
+It was packed!!	-1.0	0.3	0.3	1.3
+It sure does beat the nachos at the movies but I would expect a little bit more coming from a restaurant.	-1.0	0.3	0.3	1.3
+Waitress was a little slow in service.	-1.0	0.2	0.2	1.2
+This was like the final blow!	-1.0	0.2	0.2	1.2
+Bacon is hella salty.	1.0	-0.2	0.2	1.2
+Overall, I don't think that I would take my parents to this place again because they made most of the similar complaints that I silently felt too.	-1.0	0.2	0.2	1.2
+The desserts were a bit strange.	-1.0	0.2	0.2	1.2
+I consider this theft.	-1.0	0.2	0.2	1.2
+OMG I felt like I had never eaten Thai food until this dish.	1.0	-0.2	0.2	1.2
+We made the drive all the way from North Scottsdale... and I was not one bit disappointed!	1.0	-0.2	0.2	1.2
+Any grandmother can make a roasted chicken better than this one.	-1.0	0.2	0.2	1.2
+My brother in law who works at the mall ate here same day, and guess what he was sick all night too.	-1.0	0.2	0.2	1.2
+I do love sushi, but I found Kabuki to be over-priced, over-hip and under-services.	-1.0	0.2	0.2	1.2
+The Buffet at Bellagio was far from what I anticipated.	-1.0	0.2	0.2	1.2
+The only reason to eat here would be to fill up before a night of binge drinking just to get some carbs in your stomach.	-1.0	0.2	0.2	1.2
+A lady at the table next to us found a live green caterpillar In her salad.	-1.0	0.2	0.2	1.2
+I've had better atmosphere.	-1.0	0.1	0.1	1.1
+Host staff were, for lack of a better word, BITCHES!	-1.0	0.1	0.1	1.1
+So don't go there if you are looking for good food...	-1.0	0.1	0.1	1.1
+Must have been an off night at this place.	-1.0	0.1	0.1	1.1
+Lobster Bisque, Bussell Sprouts, Risotto, Filet ALL needed salt and pepper..and of course there is none at the tables.	-1.0	0.1	0.1	1.1
+Hopefully this bodes for them going out of business and someone who can cook can come in.	-1.0	0.1	0.1	1.1
+Plus, it's only 8 bucks.	1.0	-0.1	0.1	1.1
+first time there and might just be the last.	-1.0	0.1	0.1	1.1
+I think this restaurant suffers from not trying hard enough.	-1.0	0.1	0.1	1.1
+If you look for authentic Thai food, go else where.	-1.0	0.1	0.1	1.1
+I just wanted to leave.	-1.0	0.1	0.1	1.1
+Ordered burger rare came in we'll done.	-1.0	0.1	0.1	1.1
+And the chef was generous with his time (even came around twice so we can take pictures with him).	1.0	-0.1	0.1	1.1
+I was mortified.	-1.0	0.1	0.1	1.1
+A FLY was in my apple juice.. A FLY!!!!!!!!	-1.0	0.1	0.3	1.1
+As for the service, I thought it was good.	1.0	-0.1	0.1	1.1
+The chains, which I'm no fan of, beat this place easily.	-1.0	0.1	0.1	1.1
+This place should honestly be blown up.	-1.0	0.1	0.1	1.1
+I've had better bagels from the grocery store.	-1.0	0.1	0.1	1.1
+All in all, Ha Long Bay was a bit of a flop.	-1.0	0.1	0.1	1.1
+The potatoes were like rubber and you could tell they had been made up ahead of time being kept under a warmer.	-1.0	0	0	1.0
+- They never brought a salad we asked for.	-1.0	0	0	1.0
+There is not a deal good enough that would drag me into that establishment again.	-1.0	0	0	1.0
+He came running after us when he realized my husband had left his sunglasses on the table.	1.0	0	0	1.0
+At least think to refill my water before I struggle to wave you over for 10 minutes.	-1.0	0	0	1.0
+say bye bye to your tip lady!	-1.0	0	0	1.0
+Great Subway, in fact it's so good when you come here every other Subway will not meet your expectations.	1.0	0	0	1.0
+Not a weekly haunt, but definitely a place to come back to every once in a while.	1.0	0	0	1.0
+It was probably dirt.	-1.0	0	0	1.0
+If she had not rolled the eyes we may have stayed... Not sure if we will go back and try it again.	-1.0	0	0.3	1.0
+very tough and very short on flavor!	-1.0	0	0	1.0
+I hope this place sticks around.	1.0	0	0	1.0
+You cant go wrong with any of the food here.	1.0	0	0	1.0
+All the bread is made in-house!	1.0	0	0	1.0
+When my mom and I got home she immediately got sick and she only had a few bites of salad.	-1.0	0	0	1.0
+To summarize... the food was incredible, nay, transcendent... but nothing brings me joy quite like the memory of the pneumatic condiment dispenser.	1.0	0	0	1.0
+I don't think I'll be running back to Carly's anytime soon for food.	-1.0	0	0	1.0
+it was a drive to get there.	-1.0	0	0	1.0
+Tried to go here for lunch and it was a madhouse.	-1.0	0	0	1.0
+After waiting an hour and being seated, I was not in the greatest of moods.	-1.0	0	0	1.0
+The owner used to work at Nobu, so this place is really similar for half the price.	1.0	0	0	1.0
+One nice thing was that they added gratuity on the bill since our party was larger than 6 or 8, and they didn't expect more tip than that.	1.0	0	0	1.0
+The crêpe was delicate and thin and moist.	1.0	0	0	1.0
+No one at the table thought the food was above average or worth the wait that we had for it.	-1.0	0	0	1.0
+My fella got the huevos rancheros and they didn't look too appealing.	-1.0	0	0	1.0
+Some may say this buffet is pricey but I think you get what you pay for and this place you are getting quite a lot!	1.0	0	0	1.0
+I started this review with two stars, but I'm editing it to give it only one.	-1.0	0	0	1.0
+I found a six inch long piece of wire in my salsa.	-1.0	0	0	1.0
+Seriously killer hot chai latte.	1.0	0	0	1.0
+The only thing I wasn't too crazy about was their guacamole as I don't like it puréed.	-1.0	0	0	1.0
+What SHOULD have been a hilarious, yummy Christmas Eve dinner to remember was the biggest fail of the entire trip for us.	-1.0	0	0	1.0
+I could barely stomach the meal, but didn't complain because it was a business lunch.	-1.0	0	0	1.0
+It also took her forever to bring us the check when we asked for it.	-1.0	0	0	1.0
+It's NOT hard to make a decent hamburger.	-1.0	0	0	1.0
+But I don't like it.	-1.0	0	0	1.0
+We've have gotten a much better service from the pizza place next door than the services we received from this restaurant.	-1.0	0	0	1.0
+The ambiance isn't much better.	-1.0	0	0	1.0
+If you want a sandwich just go to any Firehouse!!!!!	1.0	0.1	0.1	0.9
+Update.....went back for a second time and it was still just as amazing	1.0	0.1	0.1	0.9
+Omelets are to die for!	1.0	0.1	0.1	0.9
+It's like a really sexy party in your mouth, where you're outrageously flirting with the hottest person at the party.	1.0	0.1	0.1	0.9
+Will go back next trip out.	1.0	0.1	0.1	0.9
+We thought you'd have to venture further away to get good sushi, but this place really hit the spot that night.	1.0	0.1	0.1	0.9
+Nice blanket of moz over top but i feel like this was done to cover up the subpar food.	1.0	0.1	0.1	0.9
+I was seated immediately.	1.0	0.1	0.1	0.9
+This really is how Vegas fine dining used to be, right down to the menus handed to the ladies that have no prices listed.	1.0	0.1	0.1	0.9
+Also were served hot bread and butter, and home made potato chips with bacon bits on top....very original and very good.	1.0	0.1	0.1	0.9
+I'd say that would be the hardest decision... Honestly, all of M's dishes taste how they are supposed to taste (amazing).	1.0	0.1	0.2	0.9
+A couple of months later, I returned and had an amazing meal.	1.0	0.1	0.1	0.9
+You won't be disappointed.	1.0	0.1	0.1	0.9
+Today was my first taste of a Buldogis Gourmet Hot Dog and I have to tell you it was more than I ever thought possible.	1.0	0.1	0.1	0.9
+If you're not familiar, check it out.	1.0	0.1	0.1	0.9
+I don't each much pasta, but I love the homemade /hand made pastas and thin pizzas here.	1.0	0.1	0.1	0.9
+If you haven't gone here GO NOW!	1.0	0.1	0.1	0.9
+Be sure to order dessert, even if you need to pack it to-go - the tiramisu and cannoli are both to die for.	1.0	0.1	0.1	0.9
+It'll be a regular stop on my trips to Phoenix!	1.0	0.1	0.1	0.9
+I can't wait to go back.	1.0	0.1	0.1	0.9
+When I received my Pita it was huge it did have a lot of meat in it so thumbs up there.	1.0	0.1	0.1	0.9
+I recently tried Caballero's and I have been back every week since!	1.0	0.1	0.1	0.9
+Go To Place for Gyros.	1.0	0.1	0.1	0.9
